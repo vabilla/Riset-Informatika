@@ -1,0 +1,8 @@
+path: ./dataset # path direktori dataset
+train: images/train # folder training
+val: images/val # folder validation
+test: images/test # folder testing (opsional)
+
+# Jumlah kelas dan nama kelas
+nc: 2
+names: ['target_spot', 'keriting_daun']
